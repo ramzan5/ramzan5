@@ -1,9 +1,9 @@
 ## Welcome to my GitHub!
 
-<a href="https://github.com/ramzan5/"><img align="right" width="350" height="263" src="https://github.com/ramzan5/ramzan5/blob/master/misc/prof.gif"></a>
+<a href="https://github.com/ramzan5/"><img align="right" width="350" height="263" src="https://github.com/ramzan5/ramzan5/blob/master/gifs/prof.gif"></a>
 - 🔭 I’m currently not working, but interested in any challenging project. 
 - 🌱 I’m currently learning java, data science (in python), web-development, and OOP 
-- 👯 I’m looking to collaborate on any suitable (*challenging) project.
+- 👯 I’m looking to collaborate on any suitable (challenging) project.
 - 🤔 I’m looking for help with Data structures in Java
 - 💬 Ask me about protramming, mathematics, algorithms and data structures, linux, shell-scripting, PowerShell-scripting
 - 📫 How to reach me: ramzanmechanical@gmail.com
