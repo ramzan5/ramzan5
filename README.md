@@ -1,7 +1,6 @@
 ## Welcome to my GitHub!
 
-
-
+<a href="https://github.com/ramzan5/"><img align="right" width="350" height="263" src="https://github.com/ramzan5/ramzan5/blob/master/misc/prof.gif"></a>
 - 🔭 I’m currently not working, but interested in any challenging project. 
 - 🌱 I’m currently learning java, data science (in python), web-development, and OOP 
 - 👯 I’m looking to collaborate on any suitable (*challenging) project.
