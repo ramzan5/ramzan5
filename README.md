@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Data structures in Java
 - 💬 Ask me about protramming, mathematics, algorithms and data structures, linux, shell-scripting, PowerShell-scripting
 - 📫 How to reach me: ramzanmechanical@gmail.com
-- ⚡ Fun fact: My friends say I am good chef!
+- ⚡ Fun fact: My friends say I am a good chef!
 
 ## 📈 My Stats:
 <p align="center">
